@@ -1,0 +1,27 @@
+-congeler grenouille pour vendre des glaces grenouilles et obtenir un des trois type d’argent
+
+
+-Cirno math challenge: répondre à un maximum de question de math en 1 minute
+
+
+-Find Touhou Charracter: 
+
+Easy: personnage de base 
+(réussis = +10 Cirno Coins sinon -10)
+
+Intermediate: personnage un peu moins connu
+(réussis = +20 Cirno Coins sinon -20)
+
+Hard: personnage pas connu 
+(réussis = +50 Cirno Coins sinon -50)
+
+Lunatic: personnage au hasard tout noir
+(réussis = +99 Cirno Coins sinon -99)
+
+Un essai par jour
+
+
+-Black Market (gère par Fire Cirno): Obtient un article au hasard par mis tous pour 50 Cirno coins (l’article change tous les 24H) et ajout d’article fixe ultra rare achetable avec des Lunatiques coins
+
+
+-Pour la commande >help faire comme un livre qui s’appelle: « Le bot Cirno, pour les nuls ».
